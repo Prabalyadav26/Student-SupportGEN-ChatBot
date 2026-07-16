@@ -1,0 +1,3002 @@
+[
+    {
+        "id": 1,
+        "category": "fees",
+        "question": "What is the fee of MCA first year?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 2,
+        "category": "fees",
+        "question": "What is the fee of MCA second year?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 3,
+        "category": "fees",
+        "question": "Can I pay fees in installments?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 4,
+        "category": "fees",
+        "question": "Is online fee payment available?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 5,
+        "category": "admission",
+        "question": "What documents are required for admission?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 6,
+        "category": "admission",
+        "question": "Is online admission available?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 7,
+        "category": "attendance",
+        "question": "What is the minimum attendance?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 8,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 9,
+        "category": "library",
+        "question": "What are the library timings?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 10,
+        "category": "library",
+        "question": "How many books can I borrow?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 11,
+        "category": "hostel",
+        "question": "Is hostel available? for new students?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 12,
+        "category": "hostel",
+        "question": "Tell me the hostel fee?",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 13,
+        "category": "placement",
+        "question": "Does the college provide placements? for new students?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 14,
+        "category": "placement",
+        "question": "Which companies visit the campus?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 15,
+        "category": "exam",
+        "question": "When are semester exams conducted? for new students?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 16,
+        "category": "exam",
+        "question": "Can I apply for revaluation? Can you tell me?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 17,
+        "category": "college",
+        "question": "What are the college timings? I need details.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 18,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Can you tell me?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 19,
+        "category": "transport",
+        "question": "Is transport available? for new students?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 20,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? I need details.",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 21,
+        "category": "scholarship",
+        "question": "Are scholarships available?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 22,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Please explain.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 23,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? Can you tell me?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 24,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? I need details.",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 25,
+        "category": "fees",
+        "question": "Can I pay fees in installments? I need details.",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 26,
+        "category": "fees",
+        "question": "Is online fee payment available? for new students?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 27,
+        "category": "admission",
+        "question": "What documents are required for admission? Can you tell me?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 28,
+        "category": "admission",
+        "question": "Is online admission available? for new students?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 29,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? Please explain.",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 30,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 31,
+        "category": "library",
+        "question": "What are the library timings? Please explain.",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 32,
+        "category": "library",
+        "question": "How many books can I borrow? Can you tell me?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 33,
+        "category": "hostel",
+        "question": "Is hostel available? for new students?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 34,
+        "category": "hostel",
+        "question": "Tell me the hostel fee?",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 35,
+        "category": "placement",
+        "question": "Does the college provide placements? I need details.",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 36,
+        "category": "placement",
+        "question": "Which companies visit the campus? Can you tell me?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 37,
+        "category": "exam",
+        "question": "When are semester exams conducted?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 38,
+        "category": "exam",
+        "question": "Can I apply for revaluation?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 39,
+        "category": "college",
+        "question": "What are the college timings? I need details.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 40,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Can you tell me?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 41,
+        "category": "transport",
+        "question": "Is transport available?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 42,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? for new students?",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 43,
+        "category": "scholarship",
+        "question": "Are scholarships available? for new students?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 44,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? I need details.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 45,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? for new students?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 46,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? Please explain.",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 47,
+        "category": "fees",
+        "question": "Can I pay fees in installments?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 48,
+        "category": "fees",
+        "question": "Is online fee payment available? Can you tell me?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 49,
+        "category": "admission",
+        "question": "What documents are required for admission?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 50,
+        "category": "admission",
+        "question": "Is online admission available?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 51,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 52,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? for new students?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 53,
+        "category": "library",
+        "question": "What are the library timings?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 54,
+        "category": "library",
+        "question": "How many books can I borrow? I need details.",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 55,
+        "category": "hostel",
+        "question": "Is hostel available? Please explain.",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 56,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? I need details.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 57,
+        "category": "placement",
+        "question": "Does the college provide placements? Please explain.",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 58,
+        "category": "placement",
+        "question": "Which companies visit the campus?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 59,
+        "category": "exam",
+        "question": "When are semester exams conducted? for new students?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 60,
+        "category": "exam",
+        "question": "Can I apply for revaluation? Can you tell me?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 61,
+        "category": "college",
+        "question": "What are the college timings? I need details.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 62,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? for new students?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 63,
+        "category": "transport",
+        "question": "Is transport available?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 64,
+        "category": "transport",
+        "question": "How can I apply for a bus pass?",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 65,
+        "category": "scholarship",
+        "question": "Are scholarships available? I need details.",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 66,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? for new students?",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 67,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? I need details.",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 68,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? Please explain.",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 69,
+        "category": "fees",
+        "question": "Can I pay fees in installments? for new students?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 70,
+        "category": "fees",
+        "question": "Is online fee payment available? Can you tell me?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 71,
+        "category": "admission",
+        "question": "What documents are required for admission? Please explain.",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 72,
+        "category": "admission",
+        "question": "Is online admission available? Can you tell me?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 73,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? Please explain.",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 74,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? for new students?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 75,
+        "category": "library",
+        "question": "What are the library timings? I need details.",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 76,
+        "category": "library",
+        "question": "How many books can I borrow?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 77,
+        "category": "hostel",
+        "question": "Is hostel available? I need details.",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 78,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? Can you tell me?",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 79,
+        "category": "placement",
+        "question": "Does the college provide placements?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 80,
+        "category": "placement",
+        "question": "Which companies visit the campus?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 81,
+        "category": "exam",
+        "question": "When are semester exams conducted? Can you tell me?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 82,
+        "category": "exam",
+        "question": "Can I apply for revaluation? Can you tell me?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 83,
+        "category": "college",
+        "question": "What are the college timings? Please explain.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 84,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Please explain.",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 85,
+        "category": "transport",
+        "question": "Is transport available? Please explain.",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 86,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? Please explain.",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 87,
+        "category": "scholarship",
+        "question": "Are scholarships available? Can you tell me?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 88,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship?",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 89,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? I need details.",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 90,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? I need details.",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 91,
+        "category": "fees",
+        "question": "Can I pay fees in installments? Can you tell me?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 92,
+        "category": "fees",
+        "question": "Is online fee payment available? Please explain.",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 93,
+        "category": "admission",
+        "question": "What documents are required for admission?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 94,
+        "category": "admission",
+        "question": "Is online admission available?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 95,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? for new students?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 96,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? Please explain.",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 97,
+        "category": "library",
+        "question": "What are the library timings? for new students?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 98,
+        "category": "library",
+        "question": "How many books can I borrow?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 99,
+        "category": "hostel",
+        "question": "Is hostel available? Can you tell me?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 100,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? I need details.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 101,
+        "category": "placement",
+        "question": "Does the college provide placements? for new students?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 102,
+        "category": "placement",
+        "question": "Which companies visit the campus? Can you tell me?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 103,
+        "category": "exam",
+        "question": "When are semester exams conducted?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 104,
+        "category": "exam",
+        "question": "Can I apply for revaluation?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 105,
+        "category": "college",
+        "question": "What are the college timings?",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 106,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 107,
+        "category": "transport",
+        "question": "Is transport available? for new students?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 108,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? Please explain.",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 109,
+        "category": "scholarship",
+        "question": "Are scholarships available?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 110,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Can you tell me?",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 111,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? for new students?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 112,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? Please explain.",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 113,
+        "category": "fees",
+        "question": "Can I pay fees in installments? Please explain.",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 114,
+        "category": "fees",
+        "question": "Is online fee payment available? Please explain.",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 115,
+        "category": "admission",
+        "question": "What documents are required for admission?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 116,
+        "category": "admission",
+        "question": "Is online admission available? I need details.",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 117,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? I need details.",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 118,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? Please explain.",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 119,
+        "category": "library",
+        "question": "What are the library timings? for new students?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 120,
+        "category": "library",
+        "question": "How many books can I borrow? Can you tell me?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 121,
+        "category": "hostel",
+        "question": "Is hostel available? I need details.",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 122,
+        "category": "hostel",
+        "question": "Tell me the hostel fee?",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 123,
+        "category": "placement",
+        "question": "Does the college provide placements? for new students?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 124,
+        "category": "placement",
+        "question": "Which companies visit the campus? for new students?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 125,
+        "category": "exam",
+        "question": "When are semester exams conducted?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 126,
+        "category": "exam",
+        "question": "Can I apply for revaluation? Please explain.",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 127,
+        "category": "college",
+        "question": "What are the college timings?",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 128,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? for new students?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 129,
+        "category": "transport",
+        "question": "Is transport available?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 130,
+        "category": "transport",
+        "question": "How can I apply for a bus pass?",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 131,
+        "category": "scholarship",
+        "question": "Are scholarships available? for new students?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 132,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Please explain.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 133,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? Please explain.",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 134,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? Can you tell me?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 135,
+        "category": "fees",
+        "question": "Can I pay fees in installments? for new students?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 136,
+        "category": "fees",
+        "question": "Is online fee payment available? Can you tell me?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 137,
+        "category": "admission",
+        "question": "What documents are required for admission? for new students?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 138,
+        "category": "admission",
+        "question": "Is online admission available? I need details.",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 139,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 140,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? Can you tell me?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 141,
+        "category": "library",
+        "question": "What are the library timings? Please explain.",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 142,
+        "category": "library",
+        "question": "How many books can I borrow?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 143,
+        "category": "hostel",
+        "question": "Is hostel available? for new students?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 144,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? I need details.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 145,
+        "category": "placement",
+        "question": "Does the college provide placements? for new students?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 146,
+        "category": "placement",
+        "question": "Which companies visit the campus?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 147,
+        "category": "exam",
+        "question": "When are semester exams conducted? Please explain.",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 148,
+        "category": "exam",
+        "question": "Can I apply for revaluation? Can you tell me?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 149,
+        "category": "college",
+        "question": "What are the college timings? for new students?",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 150,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? I need details.",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 151,
+        "category": "transport",
+        "question": "Is transport available?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 152,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? Can you tell me?",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 153,
+        "category": "scholarship",
+        "question": "Are scholarships available? I need details.",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 154,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Please explain.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 155,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? Can you tell me?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 156,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 157,
+        "category": "fees",
+        "question": "Can I pay fees in installments?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 158,
+        "category": "fees",
+        "question": "Is online fee payment available? Can you tell me?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 159,
+        "category": "admission",
+        "question": "What documents are required for admission? for new students?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 160,
+        "category": "admission",
+        "question": "Is online admission available? Please explain.",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 161,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 162,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? for new students?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 163,
+        "category": "library",
+        "question": "What are the library timings? I need details.",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 164,
+        "category": "library",
+        "question": "How many books can I borrow? for new students?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 165,
+        "category": "hostel",
+        "question": "Is hostel available? I need details.",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 166,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? Can you tell me?",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 167,
+        "category": "placement",
+        "question": "Does the college provide placements?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 168,
+        "category": "placement",
+        "question": "Which companies visit the campus? Please explain.",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 169,
+        "category": "exam",
+        "question": "When are semester exams conducted?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 170,
+        "category": "exam",
+        "question": "Can I apply for revaluation?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 171,
+        "category": "college",
+        "question": "What are the college timings? I need details.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 172,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? for new students?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 173,
+        "category": "transport",
+        "question": "Is transport available? I need details.",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 174,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? I need details.",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 175,
+        "category": "scholarship",
+        "question": "Are scholarships available? Can you tell me?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 176,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship?",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 177,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? Please explain.",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 178,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? Please explain.",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 179,
+        "category": "fees",
+        "question": "Can I pay fees in installments?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 180,
+        "category": "fees",
+        "question": "Is online fee payment available? for new students?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 181,
+        "category": "admission",
+        "question": "What documents are required for admission? I need details.",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 182,
+        "category": "admission",
+        "question": "Is online admission available? Please explain.",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 183,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? I need details.",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 184,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? for new students?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 185,
+        "category": "library",
+        "question": "What are the library timings?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 186,
+        "category": "library",
+        "question": "How many books can I borrow? I need details.",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 187,
+        "category": "hostel",
+        "question": "Is hostel available? Please explain.",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 188,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? I need details.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 189,
+        "category": "placement",
+        "question": "Does the college provide placements? I need details.",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 190,
+        "category": "placement",
+        "question": "Which companies visit the campus? I need details.",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 191,
+        "category": "exam",
+        "question": "When are semester exams conducted? I need details.",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 192,
+        "category": "exam",
+        "question": "Can I apply for revaluation?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 193,
+        "category": "college",
+        "question": "What are the college timings? Please explain.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 194,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? for new students?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 195,
+        "category": "transport",
+        "question": "Is transport available? for new students?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 196,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? I need details.",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 197,
+        "category": "scholarship",
+        "question": "Are scholarships available? I need details.",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 198,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Can you tell me?",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 199,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? Can you tell me?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 200,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 201,
+        "category": "fees",
+        "question": "Can I pay fees in installments? I need details.",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 202,
+        "category": "fees",
+        "question": "Is online fee payment available? for new students?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 203,
+        "category": "admission",
+        "question": "What documents are required for admission? Can you tell me?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 204,
+        "category": "admission",
+        "question": "Is online admission available? for new students?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 205,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? Can you tell me?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 206,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? for new students?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 207,
+        "category": "library",
+        "question": "What are the library timings? Can you tell me?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 208,
+        "category": "library",
+        "question": "How many books can I borrow?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 209,
+        "category": "hostel",
+        "question": "Is hostel available? for new students?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 210,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? Please explain.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 211,
+        "category": "placement",
+        "question": "Does the college provide placements? Please explain.",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 212,
+        "category": "placement",
+        "question": "Which companies visit the campus?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 213,
+        "category": "exam",
+        "question": "When are semester exams conducted? Can you tell me?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 214,
+        "category": "exam",
+        "question": "Can I apply for revaluation? for new students?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 215,
+        "category": "college",
+        "question": "What are the college timings? Can you tell me?",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 216,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Please explain.",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 217,
+        "category": "transport",
+        "question": "Is transport available? Please explain.",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 218,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? Can you tell me?",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 219,
+        "category": "scholarship",
+        "question": "Are scholarships available? I need details.",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 220,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Please explain.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 221,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 222,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? Can you tell me?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 223,
+        "category": "fees",
+        "question": "Can I pay fees in installments? Can you tell me?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 224,
+        "category": "fees",
+        "question": "Is online fee payment available? I need details.",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 225,
+        "category": "admission",
+        "question": "What documents are required for admission? I need details.",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 226,
+        "category": "admission",
+        "question": "Is online admission available?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 227,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? for new students?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 228,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? I need details.",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 229,
+        "category": "library",
+        "question": "What are the library timings? I need details.",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 230,
+        "category": "library",
+        "question": "How many books can I borrow? I need details.",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 231,
+        "category": "hostel",
+        "question": "Is hostel available?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 232,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? I need details.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 233,
+        "category": "placement",
+        "question": "Does the college provide placements? Please explain.",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 234,
+        "category": "placement",
+        "question": "Which companies visit the campus?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 235,
+        "category": "exam",
+        "question": "When are semester exams conducted?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 236,
+        "category": "exam",
+        "question": "Can I apply for revaluation? for new students?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 237,
+        "category": "college",
+        "question": "What are the college timings?",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 238,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Can you tell me?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 239,
+        "category": "transport",
+        "question": "Is transport available? for new students?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 240,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? Can you tell me?",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 241,
+        "category": "scholarship",
+        "question": "Are scholarships available? Can you tell me?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 242,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? I need details.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 243,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 244,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? for new students?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 245,
+        "category": "fees",
+        "question": "Can I pay fees in installments? Please explain.",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 246,
+        "category": "fees",
+        "question": "Is online fee payment available? for new students?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 247,
+        "category": "admission",
+        "question": "What documents are required for admission? I need details.",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 248,
+        "category": "admission",
+        "question": "Is online admission available? Can you tell me?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 249,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 250,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? for new students?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 251,
+        "category": "library",
+        "question": "What are the library timings? I need details.",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 252,
+        "category": "library",
+        "question": "How many books can I borrow? for new students?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 253,
+        "category": "hostel",
+        "question": "Is hostel available? for new students?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 254,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? for new students?",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 255,
+        "category": "placement",
+        "question": "Does the college provide placements?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 256,
+        "category": "placement",
+        "question": "Which companies visit the campus? Can you tell me?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 257,
+        "category": "exam",
+        "question": "When are semester exams conducted? Can you tell me?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 258,
+        "category": "exam",
+        "question": "Can I apply for revaluation? I need details.",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 259,
+        "category": "college",
+        "question": "What are the college timings?",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 260,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 261,
+        "category": "transport",
+        "question": "Is transport available? Can you tell me?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 262,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? Please explain.",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 263,
+        "category": "scholarship",
+        "question": "Are scholarships available? Can you tell me?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 264,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? I need details.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 265,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? I need details.",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 266,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? for new students?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 267,
+        "category": "fees",
+        "question": "Can I pay fees in installments? Can you tell me?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 268,
+        "category": "fees",
+        "question": "Is online fee payment available? Please explain.",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 269,
+        "category": "admission",
+        "question": "What documents are required for admission? for new students?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 270,
+        "category": "admission",
+        "question": "Is online admission available? I need details.",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 271,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? Can you tell me?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 272,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? I need details.",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 273,
+        "category": "library",
+        "question": "What are the library timings?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 274,
+        "category": "library",
+        "question": "How many books can I borrow? I need details.",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 275,
+        "category": "hostel",
+        "question": "Is hostel available? Please explain.",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 276,
+        "category": "hostel",
+        "question": "Tell me the hostel fee?",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 277,
+        "category": "placement",
+        "question": "Does the college provide placements? Can you tell me?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 278,
+        "category": "placement",
+        "question": "Which companies visit the campus? for new students?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 279,
+        "category": "exam",
+        "question": "When are semester exams conducted? Please explain.",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 280,
+        "category": "exam",
+        "question": "Can I apply for revaluation? I need details.",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 281,
+        "category": "college",
+        "question": "What are the college timings? Please explain.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 282,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Please explain.",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 283,
+        "category": "transport",
+        "question": "Is transport available? for new students?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 284,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? Please explain.",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 285,
+        "category": "scholarship",
+        "question": "Are scholarships available? for new students?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 286,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Can you tell me?",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 287,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? Can you tell me?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 288,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? I need details.",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 289,
+        "category": "fees",
+        "question": "Can I pay fees in installments? Can you tell me?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 290,
+        "category": "fees",
+        "question": "Is online fee payment available? Please explain.",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 291,
+        "category": "admission",
+        "question": "What documents are required for admission? Please explain.",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 292,
+        "category": "admission",
+        "question": "Is online admission available? Can you tell me?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 293,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? Can you tell me?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 294,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? Can you tell me?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 295,
+        "category": "library",
+        "question": "What are the library timings? Can you tell me?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 296,
+        "category": "library",
+        "question": "How many books can I borrow? for new students?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 297,
+        "category": "hostel",
+        "question": "Is hostel available? Can you tell me?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 298,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? I need details.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 299,
+        "category": "placement",
+        "question": "Does the college provide placements? Please explain.",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 300,
+        "category": "placement",
+        "question": "Which companies visit the campus? Please explain.",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 301,
+        "category": "exam",
+        "question": "When are semester exams conducted? Can you tell me?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 302,
+        "category": "exam",
+        "question": "Can I apply for revaluation? for new students?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 303,
+        "category": "college",
+        "question": "What are the college timings? I need details.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 304,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Can you tell me?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 305,
+        "category": "transport",
+        "question": "Is transport available? Please explain.",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 306,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? for new students?",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 307,
+        "category": "scholarship",
+        "question": "Are scholarships available? for new students?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 308,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Please explain.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 309,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? Please explain.",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 310,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? for new students?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 311,
+        "category": "fees",
+        "question": "Can I pay fees in installments?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 312,
+        "category": "fees",
+        "question": "Is online fee payment available? Please explain.",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 313,
+        "category": "admission",
+        "question": "What documents are required for admission? I need details.",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 314,
+        "category": "admission",
+        "question": "Is online admission available? Can you tell me?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 315,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 316,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? for new students?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 317,
+        "category": "library",
+        "question": "What are the library timings?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 318,
+        "category": "library",
+        "question": "How many books can I borrow?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 319,
+        "category": "hostel",
+        "question": "Is hostel available? for new students?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 320,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? I need details.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 321,
+        "category": "placement",
+        "question": "Does the college provide placements? for new students?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 322,
+        "category": "placement",
+        "question": "Which companies visit the campus? Can you tell me?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 323,
+        "category": "exam",
+        "question": "When are semester exams conducted? I need details.",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 324,
+        "category": "exam",
+        "question": "Can I apply for revaluation? Please explain.",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 325,
+        "category": "college",
+        "question": "What are the college timings? for new students?",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 326,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? I need details.",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 327,
+        "category": "transport",
+        "question": "Is transport available? for new students?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 328,
+        "category": "transport",
+        "question": "How can I apply for a bus pass?",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 329,
+        "category": "scholarship",
+        "question": "Are scholarships available?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 330,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship?",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 331,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 332,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? Can you tell me?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 333,
+        "category": "fees",
+        "question": "Can I pay fees in installments?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 334,
+        "category": "fees",
+        "question": "Is online fee payment available? Please explain.",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 335,
+        "category": "admission",
+        "question": "What documents are required for admission? I need details.",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 336,
+        "category": "admission",
+        "question": "Is online admission available? I need details.",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 337,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? Please explain.",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 338,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? Please explain.",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 339,
+        "category": "library",
+        "question": "What are the library timings?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 340,
+        "category": "library",
+        "question": "How many books can I borrow? for new students?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 341,
+        "category": "hostel",
+        "question": "Is hostel available? Please explain.",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 342,
+        "category": "hostel",
+        "question": "Tell me the hostel fee?",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 343,
+        "category": "placement",
+        "question": "Does the college provide placements? for new students?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 344,
+        "category": "placement",
+        "question": "Which companies visit the campus? Can you tell me?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 345,
+        "category": "exam",
+        "question": "When are semester exams conducted? I need details.",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 346,
+        "category": "exam",
+        "question": "Can I apply for revaluation? for new students?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 347,
+        "category": "college",
+        "question": "What are the college timings? Please explain.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 348,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Can you tell me?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 349,
+        "category": "transport",
+        "question": "Is transport available? Please explain.",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 350,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? Can you tell me?",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 351,
+        "category": "scholarship",
+        "question": "Are scholarships available? Can you tell me?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 352,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Please explain.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 353,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 354,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? I need details.",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 355,
+        "category": "fees",
+        "question": "Can I pay fees in installments? for new students?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 356,
+        "category": "fees",
+        "question": "Is online fee payment available? for new students?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 357,
+        "category": "admission",
+        "question": "What documents are required for admission? Can you tell me?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 358,
+        "category": "admission",
+        "question": "Is online admission available? Can you tell me?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 359,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? Please explain.",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 360,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? Please explain.",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 361,
+        "category": "library",
+        "question": "What are the library timings? I need details.",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 362,
+        "category": "library",
+        "question": "How many books can I borrow? I need details.",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 363,
+        "category": "hostel",
+        "question": "Is hostel available? for new students?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 364,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? Please explain.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 365,
+        "category": "placement",
+        "question": "Does the college provide placements? Please explain.",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 366,
+        "category": "placement",
+        "question": "Which companies visit the campus? for new students?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 367,
+        "category": "exam",
+        "question": "When are semester exams conducted?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 368,
+        "category": "exam",
+        "question": "Can I apply for revaluation? Can you tell me?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 369,
+        "category": "college",
+        "question": "What are the college timings? Please explain.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 370,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Please explain.",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 371,
+        "category": "transport",
+        "question": "Is transport available? for new students?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 372,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? I need details.",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 373,
+        "category": "scholarship",
+        "question": "Are scholarships available? Can you tell me?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 374,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Please explain.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 375,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 376,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? Please explain.",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 377,
+        "category": "fees",
+        "question": "Can I pay fees in installments? I need details.",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 378,
+        "category": "fees",
+        "question": "Is online fee payment available? Can you tell me?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 379,
+        "category": "admission",
+        "question": "What documents are required for admission?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 380,
+        "category": "admission",
+        "question": "Is online admission available?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 381,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? Please explain.",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 382,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? for new students?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 383,
+        "category": "library",
+        "question": "What are the library timings? for new students?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 384,
+        "category": "library",
+        "question": "How many books can I borrow? for new students?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 385,
+        "category": "hostel",
+        "question": "Is hostel available? Please explain.",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 386,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? I need details.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 387,
+        "category": "placement",
+        "question": "Does the college provide placements? Please explain.",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 388,
+        "category": "placement",
+        "question": "Which companies visit the campus? Please explain.",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 389,
+        "category": "exam",
+        "question": "When are semester exams conducted?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 390,
+        "category": "exam",
+        "question": "Can I apply for revaluation? Please explain.",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 391,
+        "category": "college",
+        "question": "What are the college timings? I need details.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 392,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Can you tell me?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 393,
+        "category": "transport",
+        "question": "Is transport available? I need details.",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 394,
+        "category": "transport",
+        "question": "How can I apply for a bus pass?",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 395,
+        "category": "scholarship",
+        "question": "Are scholarships available?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 396,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship?",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 397,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 398,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? for new students?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 399,
+        "category": "fees",
+        "question": "Can I pay fees in installments? Can you tell me?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 400,
+        "category": "fees",
+        "question": "Is online fee payment available? Can you tell me?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 401,
+        "category": "admission",
+        "question": "What documents are required for admission? Please explain.",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 402,
+        "category": "admission",
+        "question": "Is online admission available? I need details.",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 403,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? I need details.",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 404,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 405,
+        "category": "library",
+        "question": "What are the library timings? I need details.",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 406,
+        "category": "library",
+        "question": "How many books can I borrow? Can you tell me?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 407,
+        "category": "hostel",
+        "question": "Is hostel available? Can you tell me?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 408,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? Can you tell me?",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 409,
+        "category": "placement",
+        "question": "Does the college provide placements?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 410,
+        "category": "placement",
+        "question": "Which companies visit the campus? I need details.",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 411,
+        "category": "exam",
+        "question": "When are semester exams conducted? for new students?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 412,
+        "category": "exam",
+        "question": "Can I apply for revaluation?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 413,
+        "category": "college",
+        "question": "What are the college timings?",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 414,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Please explain.",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 415,
+        "category": "transport",
+        "question": "Is transport available?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 416,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? I need details.",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 417,
+        "category": "scholarship",
+        "question": "Are scholarships available? Can you tell me?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 418,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Please explain.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 419,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? I need details.",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 420,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? Can you tell me?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 421,
+        "category": "fees",
+        "question": "Can I pay fees in installments? I need details.",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 422,
+        "category": "fees",
+        "question": "Is online fee payment available? Please explain.",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 423,
+        "category": "admission",
+        "question": "What documents are required for admission?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 424,
+        "category": "admission",
+        "question": "Is online admission available?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 425,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? Please explain.",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 426,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? for new students?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 427,
+        "category": "library",
+        "question": "What are the library timings? I need details.",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 428,
+        "category": "library",
+        "question": "How many books can I borrow? I need details.",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 429,
+        "category": "hostel",
+        "question": "Is hostel available? for new students?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 430,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? Can you tell me?",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 431,
+        "category": "placement",
+        "question": "Does the college provide placements?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 432,
+        "category": "placement",
+        "question": "Which companies visit the campus? I need details.",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 433,
+        "category": "exam",
+        "question": "When are semester exams conducted? Please explain.",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 434,
+        "category": "exam",
+        "question": "Can I apply for revaluation? for new students?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 435,
+        "category": "college",
+        "question": "What are the college timings? I need details.",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 436,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 437,
+        "category": "transport",
+        "question": "Is transport available?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 438,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? for new students?",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 439,
+        "category": "scholarship",
+        "question": "Are scholarships available? Please explain.",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 440,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? Can you tell me?",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 441,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? for new students?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 442,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? for new students?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 443,
+        "category": "fees",
+        "question": "Can I pay fees in installments? I need details.",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 444,
+        "category": "fees",
+        "question": "Is online fee payment available? for new students?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 445,
+        "category": "admission",
+        "question": "What documents are required for admission? Can you tell me?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 446,
+        "category": "admission",
+        "question": "Is online admission available?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 447,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? Can you tell me?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 448,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? for new students?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 449,
+        "category": "library",
+        "question": "What are the library timings?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 450,
+        "category": "library",
+        "question": "How many books can I borrow? I need details.",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 451,
+        "category": "hostel",
+        "question": "Is hostel available? Please explain.",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 452,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? Please explain.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 453,
+        "category": "placement",
+        "question": "Does the college provide placements? I need details.",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 454,
+        "category": "placement",
+        "question": "Which companies visit the campus? for new students?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 455,
+        "category": "exam",
+        "question": "When are semester exams conducted? I need details.",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 456,
+        "category": "exam",
+        "question": "Can I apply for revaluation? Please explain.",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 457,
+        "category": "college",
+        "question": "What are the college timings? for new students?",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 458,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus? Please explain.",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 459,
+        "category": "transport",
+        "question": "Is transport available? Please explain.",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 460,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? Please explain.",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 461,
+        "category": "scholarship",
+        "question": "Are scholarships available? for new students?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 462,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship?",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 463,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 464,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year? Please explain.",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 465,
+        "category": "fees",
+        "question": "Can I pay fees in installments? Can you tell me?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 466,
+        "category": "fees",
+        "question": "Is online fee payment available?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 467,
+        "category": "admission",
+        "question": "What documents are required for admission? Can you tell me?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 468,
+        "category": "admission",
+        "question": "Is online admission available? I need details.",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 469,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? for new students?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 470,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? Can you tell me?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 471,
+        "category": "library",
+        "question": "What are the library timings? Please explain.",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 472,
+        "category": "library",
+        "question": "How many books can I borrow?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 473,
+        "category": "hostel",
+        "question": "Is hostel available? Please explain.",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 474,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? Can you tell me?",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 475,
+        "category": "placement",
+        "question": "Does the college provide placements?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 476,
+        "category": "placement",
+        "question": "Which companies visit the campus? Please explain.",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 477,
+        "category": "exam",
+        "question": "When are semester exams conducted? Can you tell me?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 478,
+        "category": "exam",
+        "question": "Can I apply for revaluation? Can you tell me?",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    },
+    {
+        "id": 479,
+        "category": "college",
+        "question": "What are the college timings? for new students?",
+        "answer": "The college operates from 9 AM to 5 PM."
+    },
+    {
+        "id": 480,
+        "category": "college",
+        "question": "Is Wi-Fi available on campus?",
+        "answer": "Yes, Wi-Fi is available in academic blocks."
+    },
+    {
+        "id": 481,
+        "category": "transport",
+        "question": "Is transport available? Can you tell me?",
+        "answer": "Yes, bus facilities are available on selected routes."
+    },
+    {
+        "id": 482,
+        "category": "transport",
+        "question": "How can I apply for a bus pass? Please explain.",
+        "answer": "Students can apply through the transport office."
+    },
+    {
+        "id": 483,
+        "category": "scholarship",
+        "question": "Are scholarships available? Can you tell me?",
+        "answer": "Yes, eligible students can apply for scholarships."
+    },
+    {
+        "id": 484,
+        "category": "scholarship",
+        "question": "How can I apply for a scholarship? I need details.",
+        "answer": "Apply through the scholarship portal or administration office."
+    },
+    {
+        "id": 485,
+        "category": "fees",
+        "question": "Tell me the fee of MCA first year? for new students?",
+        "answer": "The fee of MCA first year is ₹45,000."
+    },
+    {
+        "id": 486,
+        "category": "fees",
+        "question": "Tell me the fee of MCA second year?",
+        "answer": "The fee of MCA second year is ₹47,000."
+    },
+    {
+        "id": 487,
+        "category": "fees",
+        "question": "Can I pay fees in installments? Can you tell me?",
+        "answer": "Yes, fee installments are available with approval."
+    },
+    {
+        "id": 488,
+        "category": "fees",
+        "question": "Is online fee payment available? Can you tell me?",
+        "answer": "Yes, students can pay fees through the college portal."
+    },
+    {
+        "id": 489,
+        "category": "admission",
+        "question": "What documents are required for admission? Can you tell me?",
+        "answer": "Mark sheets, ID proof, photographs and transfer certificate are required."
+    },
+    {
+        "id": 490,
+        "category": "admission",
+        "question": "Is online admission available?",
+        "answer": "Yes, students can apply online through the admission portal."
+    },
+    {
+        "id": 491,
+        "category": "attendance",
+        "question": "Tell me the minimum attendance? Can you tell me?",
+        "answer": "Students must maintain at least 75% attendance."
+    },
+    {
+        "id": 492,
+        "category": "attendance",
+        "question": "What happens if attendance is below 75%? Can you tell me?",
+        "answer": "Students may not be eligible for semester exams."
+    },
+    {
+        "id": 493,
+        "category": "library",
+        "question": "What are the library timings? Can you tell me?",
+        "answer": "The library is open from 9 AM to 5 PM."
+    },
+    {
+        "id": 494,
+        "category": "library",
+        "question": "How many books can I borrow?",
+        "answer": "Students can borrow up to 3 books."
+    },
+    {
+        "id": 495,
+        "category": "hostel",
+        "question": "Is hostel available? for new students?",
+        "answer": "Yes, separate hostels are available for boys and girls."
+    },
+    {
+        "id": 496,
+        "category": "hostel",
+        "question": "Tell me the hostel fee? Please explain.",
+        "answer": "The hostel fee starts from ₹30,000 per year."
+    },
+    {
+        "id": 497,
+        "category": "placement",
+        "question": "Does the college provide placements?",
+        "answer": "Yes, the placement cell conducts campus drives."
+    },
+    {
+        "id": 498,
+        "category": "placement",
+        "question": "Which companies visit the campus? for new students?",
+        "answer": "Companies like TCS, Infosys, Wipro and Capgemini visit the campus."
+    },
+    {
+        "id": 499,
+        "category": "exam",
+        "question": "When are semester exams conducted? Can you tell me?",
+        "answer": "Semester exams are conducted at the end of each semester."
+    },
+    {
+        "id": 500,
+        "category": "exam",
+        "question": "Can I apply for revaluation? I need details.",
+        "answer": "Yes, revaluation can be requested after results are declared."
+    }
+]
