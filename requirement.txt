@@ -1,0 +1,9 @@
+spacy
+sentence-transformers
+scikit-learn
+faiss-cpu
+python-dotenv
+groq-sdk
+streamlit
+python-dotenv
+numpy
