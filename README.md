@@ -136,6 +136,16 @@ pip install -r requirements.txt
 
 ---
 
+---
+
+## Step 6: Install spaCy Language Model
+
+```bash
+python -m spacy download en_core_web_sm
+```
+
+---
+
 # 🔑 Configure Environment Variables
 
 Create a file named
