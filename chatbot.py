@@ -1,5 +1,5 @@
 from retrieval.vector_store import search
-from genai.prompt import build_prompt
+from genai.promt import build_prompt
 from genai.grok import ask_groq
 from nlp.intent import detect_intent
 from nlp.entities import extract_entities
